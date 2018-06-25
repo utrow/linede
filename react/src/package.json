@@ -1,0 +1,11 @@
+{
+    "title": "Material demo",
+    "description": "",
+    "dependencies": {
+        "react-dom": "latest",
+        "react": "latest",
+        "prop-types": "latest",
+        "@material-ui/core": "latest",
+        "@material-ui/icons": "latest"
+    }
+}
