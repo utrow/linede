@@ -7,8 +7,7 @@ http://linede.herokuapp.com/
 - PHP7(Codeigniter3)
 - MySQL
 - Heroku
-- React.js
-
+- React.js 
 
 ## 開発背景
 ### めっちゃシンプルにリンクを転送したい!!!
@@ -27,3 +26,9 @@ http://linede.herokuapp.com/
     LINEでリンクを受信-> LINEメッセージを友だちに転送
     
     こうできる。
+
+## 動作もシンプル
+
+Web app. => LINE BOT => LINE
+
+idを用いて、Web appからLINE BOTを操作し、LINEにメッセージが送信される動作をするだけ。
